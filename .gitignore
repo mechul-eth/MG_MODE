@@ -28,6 +28,8 @@ CLAUDE.md
 # Dependencies
 node_modules/
 __pycache__/
+.venv/
+*.egg-info/
 *.pyc
 
 # Build outputs
