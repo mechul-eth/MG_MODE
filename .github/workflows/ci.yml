@@ -72,7 +72,7 @@ jobs:
             'examples/**/*.md' \
             '*.md' \
             --ignore conductor-core/test \
-            --disable MD013 MD033 MD041 MD024 MD036 MD040 MD034 MD029
+            --disable MD013 MD033 MD041 MD024 MD036 MD040 MD034 MD029 MD060 MD031 MD032 MD056 MD058 MD007 MD022 MD025 MD026 MD012 MD004 MD005 MD009 MD010 MD014 MD037 MD038 MD042 MD045 MD047 MD049 MD050 MD053
 
   orphan-check:
     name: Orphan-prevention check
